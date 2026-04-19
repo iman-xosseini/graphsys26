@@ -1,0 +1,11 @@
+Metric,Value
+Total rows,"1,101,623"
+Total features (with lags),258
+Original sensor features,208
+Lag features,50
+Nodes,16
+Time range start,2020-05-11 18:00:00+00:00
+Time range end,2022-09-28 21:30:00+00:00
+Anomaly rate (target),0.1389
+Train rows,"881,280"
+Test rows,"220,343"

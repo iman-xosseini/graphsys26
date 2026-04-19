@@ -1,0 +1,21 @@
+SHAP Rank,Feature,Mean |SHAP|,Causal Role
+1,p1_io_power_avg,0.20728531088597052,no edge
+2,ps1_input_power_avg,0.2025858151272234,no edge
+3,p0_io_power_avg_rmean4,0.192404532779098,no edge
+4,p1_power_avg,0.18538849763385895,no edge
+5,p0_power_avg_rmean4,0.17833596422103928,no edge
+6,ps0_input_power_avg,0.17722426897526394,no edge
+7,fan2_1_std,0.17348343470055924,no edge
+8,p1_power_std,0.1576477880308836,no edge
+9,total_power_avg,0.15724335634386172,no edge
+10,p0_io_power_min_rmean4,0.1561976887195053,no edge
+11,p1_vdd_temp_avg,0.1530534038168956,no edge
+12,fan_disk_power_avg,0.11585769806776659,no edge
+13,ps0_input_voltag_avg,0.11278077706080335,no edge
+14,p0_power_min_rmean4,0.09321546602930109,no edge
+15,dimm8_temp_avg,0.09288379647082057,no edge
+16,ps1_output_volta_avg,0.09248451594296875,no edge
+17,ps0_output_curre_avg,0.08558055743439297,no edge
+18,p0_mem_power_std,0.07932446872512754,no edge
+19,fan0_0_avg,0.07467804396299883,no edge
+20,p0_mem_power_avg,0.07298817693622203,no edge
